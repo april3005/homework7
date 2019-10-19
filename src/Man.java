@@ -13,12 +13,4 @@ public class Man extends A {
         System.out.println("Age: " + getAge() + " Weight: " + getWeight() + " Height: " + getHeight());
 
     }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
 }
